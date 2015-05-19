@@ -3,6 +3,5 @@
 	<artifactId>maven-example</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0.0-SNAPSHOT</version>
-	<groupId>com.aneesh</groupId>
-	<------test comment--->
+	<groupId>com.aneeshdfasf</groupId>
 </project>
