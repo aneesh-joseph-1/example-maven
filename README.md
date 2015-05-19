@@ -1,3 +1,5 @@
-# example-maven project
 
-Test commit by Mrinmoy
+# example-maven
+
+This is a sample maven project
+
