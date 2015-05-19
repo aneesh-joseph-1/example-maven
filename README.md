@@ -1,5 +1,3 @@
 # example-maven
 
-Asbskjdvnlgjdlkj
-
-added
+this is a sample maven project
