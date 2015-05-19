@@ -1,5 +1,5 @@
 
 # example-maven
 
-This is a sample maven project
+This is a sample Maven project
 
